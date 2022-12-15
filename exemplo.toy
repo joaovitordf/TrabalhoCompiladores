@@ -1,0 +1,11 @@
+VAR a: int;
+VAR b: int;
+VAR c: int;
+VAR d: int;
+VAR e: int;
+
+FUNCTION main() {
+    IF (3 > 5){
+        a = 10;
+    }
+}
